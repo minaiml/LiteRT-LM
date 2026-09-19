@@ -1,0 +1,13 @@
+{
+  "fork": "minaiml/LiteRT-LM",
+  "source": "google-ai-edge/LiteRT-LM",
+  "source_url": "https://github.com/google-ai-edge/LiteRT-LM",
+  "commit": "5a34c6c404b9c5ca57c2017f061b7d5ee0c8f59f",
+  "branch": "main",
+  "fetched": "2026-09-19",
+  "upstream_license": "Apache-2.0",
+  "role": "phone runtime — Google's production LLM inference framework for edge devices; the successor to MediaPipe LLM Inference, which is now maintenance-only",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
